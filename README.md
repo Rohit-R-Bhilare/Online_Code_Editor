@@ -60,6 +60,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:rohitramchandrabhilare@gmail.com)
+Your Name - [Mail](mailto:rohitramchandrabhilare@gmail.com)
 
 Project Link: [https://github.com/your-username/online-code-editor](https://rohit-r-bhilare.github.io/Online_Code_Editor/)
